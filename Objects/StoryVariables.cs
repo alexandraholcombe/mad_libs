@@ -45,7 +45,7 @@ namespace MadLibs.Objects
     {
       return _verb;
     }
-    public void SetVerb()
+    public void SetVerb(string newVerb)
     {
       _verb = newVerb;
     }
